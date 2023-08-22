@@ -1,7 +1,7 @@
 package Programmers.LV1;
 import java.util.*;
 
-public class 햄버거만들기 {
+public class 햄버거만들기x {
     public static void main(String[] args) {
         int [] ingredients = {2, 1, 1, 2, 3, 1, 2, 3, 1};
         int size, answer = 0;
